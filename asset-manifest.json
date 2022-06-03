@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mary_domantay/static/css/main.c8de6693.css",
+    "main.js": "/mary_domantay/static/js/main.9cc84b2f.js",
+    "static/media/cover_wordly.jpg": "/mary_domantay/static/media/cover_wordly.0343952a0389881eb3e1.jpg",
+    "index.html": "/mary_domantay/index.html",
+    "main.c8de6693.css.map": "/mary_domantay/static/css/main.c8de6693.css.map",
+    "main.9cc84b2f.js.map": "/mary_domantay/static/js/main.9cc84b2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8de6693.css",
+    "static/js/main.9cc84b2f.js"
+  ]
+}
